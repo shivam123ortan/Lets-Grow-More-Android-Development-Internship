@@ -1,0 +1,7 @@
+#Sat Oct 29 09:32:20 IST 2022
+base.1=D\:\\AAA\\STUDY\\LET'S GROW MORE\\Lets-Grow-More-Android-Development-Internship-main\\COVID-India-Tracker-master (Task- 1)\\COVID-India-Tracker-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.1=classes.dex
+base.0=D\:\\AAA\\STUDY\\LET'S GROW MORE\\Lets-Grow-More-Android-Development-Internship-main\\COVID-India-Tracker-master (Task- 1)\\COVID-India-Tracker-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
